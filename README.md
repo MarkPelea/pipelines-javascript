@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mpelea/Sample%20.NET%20Core/_apis/build/status/MarkPelea.pipelines-javascript?branchName=master)](https://dev.azure.com/mpelea/Sample%20.NET%20Core/_build/latest?definitionId=4&branchName=master)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
